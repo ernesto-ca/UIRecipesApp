@@ -12,7 +12,7 @@ A good UI design and full color pallet can make a big difference for the user, w
 
 Colors, images and the nice design are from _debobrata debnath_ in Uplabs site, here is the [link](https://www.uplabs.com/posts/free-recipe-app-sketch).
 
-The next gif shows how the application is:
+The next gif shows how the application navigation is:
 
 ![UI Navigation](gifs/ui.gif)
 
